@@ -39,7 +39,10 @@ a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları n
 
 Cevap a) **Denklemim -1.3t^2+1.85t+1.61E-03 'dir.**
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?
+
+Cevap b)**Bence sabit olmaz çünkü ivmeyu etkileyen tek faktör havadaki sürtünme degildir. Aynı zamanda yüzey sürtünmesi de vardır. Yüzeydeki sürtünme kaybolmadığı sürece ivme sabit kalmaz.**
+ 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
