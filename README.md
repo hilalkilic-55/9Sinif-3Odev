@@ -77,4 +77,4 @@ Cevap) **2.029 buldum.Nasıl bulduğumu ne siz sorun ne ben söyleyim hocam**
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
 
-Cevap)**Bence hayır. Çünkü cismin tutarken ki halini göremiyoruz**
+Cevap)**Bence hayır. Çünkü cismin durarken ki halini göremiyoruz**
