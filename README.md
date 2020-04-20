@@ -60,7 +60,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
-**Cevap) Hız zaman grafiğinden yararlanarak ivmeyi *-2* buldum. *F=m.a* formülünden cisme uygulanan net kuvveti -2 olarak buldum. Eksi olduğu için bu kuvvet sürtünme kuvvetidir dedim.(ne kadar doğru bilmiyorum.) Sonrasında *F(sürtünme)=N.kinetik sürtünme katsayısı* formülünden *2=10.kinetik sürtünme katsayısı* 'na ulaştım. Burdan da kinetik surtunme katsayısını *0.2* olarak buldum.**
+**Cevap) Hız zaman grafiğinden yararlanarak ivmeyi *-2.23* buldum. *F=m.a* formülünden cisme uygulanan net kuvveti -2.23 olarak buldum. Eksi olduğu için bu kuvvet sürtünme kuvvetidir dedim.(ne kadar doğru bilmiyorum.) Sonrasında *F(sürtünme)=N.kinetik sürtünme katsayısı* formülünden *2,23=10.kinetik sürtünme katsayısı* 'na ulaştım. Burdan da kinetik surtunme katsayısını *0.223* olarak buldum.**
 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
